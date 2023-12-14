@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1702543329 source:c:\c++ projektai\kabinetai\main.cpp
+	<iostream>
+	<fstream>
+
